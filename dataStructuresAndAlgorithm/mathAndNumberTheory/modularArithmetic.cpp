@@ -18,3 +18,7 @@ long long mul(int a,int b,int c){
 long long div(int a,int b,int c){
     return ((a%c)/(b%c))%c;
 }
+int main(void)
+{
+
+}
