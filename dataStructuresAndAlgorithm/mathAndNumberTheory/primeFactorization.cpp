@@ -1,7 +1,7 @@
 #include <iostream> 
 using namespace std;
 int main(){
-    int num=36;
+    int num=100;
     for (int  i = 2; i*i <= num; i++)
     {
         while (num%i==0)
